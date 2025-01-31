@@ -87,7 +87,7 @@ Passionate about building innovative solutions, exploring machine learning, and 
 
 Feel free to reach out to me for collaborations, opportunities, or just a chat!  
 📩 **Email:** [jasminedorathyvasantharaj@gmail.com](mailto:jasminedorathyvasantharaj@gmail.com)  
-🔗 **LinkedIn:** [jasminedorathy](https://linkedin.com/in/jasminedorathy)  
+🔗 **LinkedIn:** [jasminedorathy](https://www.linkedin.com/in/jasmine-dorathy-535383219/)
 🐦 **Twitter:** [yourtwitter](https://twitter.com/yourtwitter)  
 📸 **Instagram:** [yourinstagram](https://instagram.com/yourinstagram)
 
@@ -95,8 +95,7 @@ Feel free to reach out to me for collaborations, opportunities, or just a chat!
 
 **291 contributions in the last year**  
 *Learn how we count contributions*  
-- **No contributions.**  
-- **Low contributions.**  
+ 
 - **Medium-low contributions.**  
 - **Medium-high contributions.**  
 - **High contributions.**
