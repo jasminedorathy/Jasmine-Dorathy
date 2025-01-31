@@ -3,8 +3,7 @@
 **Software Developer | Machine Learning Enthusiast | Problem Solver** 🚀  
 Passionate about building innovative solutions, exploring machine learning, and solving complex problems. I love working on projects that challenge me to grow and learn new technologies. Let's connect and create something amazing together!
 
-![Cool Picture](https://avatars.githubusercontent.com/u/your-profile-id)  
-*Replace the above link with your own picture or use this placeholder.*
+
 
 ---
 
