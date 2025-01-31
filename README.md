@@ -1,4 +1,3 @@
-
 # Hi there 👋 I'm Jasmine Dorathy! 😊
 
 **Software Developer | Machine Learning Enthusiast | Problem Solver** 🧑‍💻  
@@ -14,14 +13,14 @@ Passionate about building innovative solutions, exploring machine learning, and 
 
 ## My Stats 🔥
 
-**LeetCode Stats**  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/jasmine_dorathy_15/)
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasminedorathy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-**⭐ GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasminedorathy&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminedorathy&layout=compact&theme=radical&hide_border=true)
 
-**🔥 GitHub Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasminedorathy&theme=radical&hide_border=true)
+### LeetCode Stats
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/jasmine_dorathy_15/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/jasmine_dorathy_15?theme=dark&font=Roboto)
 
 ---
 
@@ -66,19 +65,19 @@ Passionate about building innovative solutions, exploring machine learning, and 
 
 ---
 
-## Popular Repositories 🌟
+## Featured Repositories 🌟
 
-- **[LeetCode](https://github.com/jasminedorathy/Leetcode)**  
-  Solutions to various LeetCode problems in Java and Python.
+### [LeetCode](https://github.com/jasminedorathy/Leetcode)
+Solutions to various LeetCode problems in Java and Python.
 
-- **[Java-Programs-and-Concepts](https://github.com/jasminedorathy/-Java-Programs-and-Concepts)**  
-  A collection of Java programs and core concepts for learning and reference.
+### [Java-Programs-and-Concepts](https://github.com/jasminedorathy/-Java-Programs-and-Concepts)
+A collection of Java programs and core concepts for learning and reference.
 
-- **[CODSOFT_ML_INTERNSHIP](https://github.com/jasminedorathy/CODSOFT_ML_INTERNSHIP)**  
-  Projects and tasks completed during the CODSOFT Machine Learning Internship.
+### [CODSOFT_ML_INTERNSHIP](https://github.com/jasminedorathy/CODSOFT_ML_INTERNSHIP)
+Projects and tasks completed during the CODSOFT Machine Learning Internship.
 
-- **[Chronic-Obstructive-Disease-Prediction](https://github.com/jasminedorathy/Chronic-Obstructive-Disease-Prediction)**  
-  A machine learning model to predict chronic obstructive pulmonary disease (COPD) using patient data.
+### [Chronic-Obstructive-Disease-Prediction](https://github.com/jasminedorathy/Chronic-Obstructive-Disease-Prediction)
+A machine learning model to predict chronic obstructive pulmonary disease (COPD) using patient data.
 
 ---
 
